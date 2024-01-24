@@ -1,0 +1,1 @@
+I crafted a visually appealing social media website reminiscent of Instagram using HTML for structure and CSS for stylish design. The result is a seamless, user-friendly platform that invites exploration and engagement. 
